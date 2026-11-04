@@ -1,4 +1,4 @@
-﻿# ss-led
+# ss-led
 
 ESP32-C3 / ESP32-C6 异步 RMT 灯带驱动，支持 WS281x RGB 和自定义时序的 RGBW 灯珠。`no_std`、不使用堆，由调用方提供脉冲缓冲区。
 
